@@ -17,3 +17,5 @@ git remote add upstream -m master git://github.com/ego008/youbbs-openshift.git
 git pull -s recursive -X theirs upstream master
 git push
 ```
+
+Or install online, [Read more...](http://youbbs.sinaapp.com/t/1340 "YouBBS")
