@@ -25,4 +25,5 @@ $dbcharset = 'utf8';
 //系统默认字符集
 $charset = 'utf-8';
 
+echo DADA_ROOT. ' - ' .$dbusername .' - '. $dbpassword.' '. $servername.' ' .$dbport . ' '. $dbname;
 ?>
