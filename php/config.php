@@ -24,7 +24,7 @@ $dbport = $_ENV['OPENSHIFT_MYSQL_DB_PORT'];
 $dbcharset = 'utf8';
 //系统默认字符集
 $charset = 'utf-8';
-echo ENV['OPENSHIFT_MYSQL_DB_SOCKET']. ' socket ';
+
 foreach($_ENV as $k=>$v){
     echo $k.': '.$v.'<br/>';
 }
